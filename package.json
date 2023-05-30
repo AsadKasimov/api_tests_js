@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@jest/expect": "^29.5.0",
+    "axios": "^1.4.0",
+    "jest": "^29.5.0",
+    "joi": "^17.9.2",
+    "voluptjs": "^0.0.7"
+  }
+}
